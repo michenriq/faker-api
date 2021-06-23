@@ -1,0 +1,129 @@
+{
+	"fruits": [
+		{
+			"id": 1,
+			"name" : "Abacate",
+			"status": 0
+		},
+		{
+			"id": 2,
+			"name" : "Abacaxi",
+			"status": 0
+		},
+		{
+			"id": 3,
+			"name" : "Abiu",
+			"status": 0
+		},
+		{
+			"id": 4,
+			"name" : "Araçá",
+			"status": 0
+		},
+		{
+			"id": 5,
+			"name" : "Azeitona",
+			"status": 0
+		},
+		{
+			"id": 6,
+			"name" : "Açaí",
+			"status": 0
+		},
+		{
+			"id": 7,
+			"name" : "Acerola",
+			"status": 0
+		},
+		{
+			"id": 8,
+			"name" : "Ameixa",
+			"status": 0
+		},
+		{
+			"id": 9,
+			"name" : "Amora",
+			"status": 0
+		},
+		{
+			"id": 10,
+			"name" : "Abricó",
+			"status": 0
+		},
+		{
+			"id": 11,
+			"name" : "Anonácea",
+			"status": 0
+		},
+		{
+			"id": 12,
+			"name" : "Ananás",
+			"status": 0
+		},
+		{
+			"id": 13,
+			"name" : "Abóbora",
+			"status": 0
+		},
+		{
+			"id": 14,
+			"name" : "Babaco",
+			"status": 0
+		},
+		{
+			"id": 15,
+			"name" : "Bacaba",
+			"status": 0
+		},
+		{
+			"id": 16,
+			"name" : "Bacuri",
+			"status": 0
+		},
+		{
+			"id": 17,
+			"name" : "Banana",
+			"status": 0
+		},
+		{
+			"id": 18,
+			"name" : "Baru",
+			"status": 0
+		},
+		{
+			"id": 19,
+			"name" : "Buriti",
+			"status": 0
+		},
+		{
+			"id": 20,
+			"name" : "Bilimbi",
+			"status": 0
+		},
+		{
+			"id": 21,
+			"name" : "Biribá",
+			"status": 0
+		},
+		{
+			"id": 22,
+			"name" : "Butiá",
+			"status": 0
+		},
+		{
+			"id": 23,
+			"name" : "Cabeludinha",
+			"status": 0
+		},
+		{
+			"id": 24,
+			"name" : "Cacau",
+			"status": 0
+		},
+		{
+			"id": 25,
+			"name" : "Cagaita",
+			"status": 0
+		}
+	]
+}
