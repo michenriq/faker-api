@@ -6,4 +6,5 @@ Simple faker-api to consume data at yout local applications.
 npm install
 
 ## Run your api
+```
 npm run dev
